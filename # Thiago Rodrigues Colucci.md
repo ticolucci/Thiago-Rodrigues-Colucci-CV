@@ -13,27 +13,6 @@ Engineering leader with 15+ years' experience building and scaling teams in fint
 
 ---
 
-## CORE SKILLS
-
-- Technology & Engineering Leadership
-- Technical Direction & Strategy
-- Building & Scaling Teams
-- Legacy Modernization
-- Product & Platform Development
-- Cross-functional Collaboration
-- Agile & DevOps Practices
-- Career Development & Coaching
-
----
-
-## LANGUAGES
-
-- Portuguese (Native/Bilingual)
-- English (Native/Bilingual)
-- Spanish (Elementary)
-
----
-
 ## EXPERIENCE
 
 ### **Volvo Cars** | Stockholm, Sweden  
@@ -49,7 +28,7 @@ _March 2025 – Present_
 _February 2023 – March 2025_
 
 - Led ~80 engineers responsible for the Volvo Cars mobile app, emphasizing customer satisfaction and performance.
-- Improved app startup time by **6×**; significantly increased customer satisfaction.
+- Improved app startup time by 6×; significantly increased customer satisfaction.
 - Shortened release cycles, reorganized teams for better ownership, and removed manual QA roles.
 - Drove unification of core teams and end-to-end ownership of backend/mobile components.
 - Hired/coached engineering leaders and senior engineers.
@@ -64,9 +43,9 @@ _February 2023 – March 2025_
 **Director of Engineering**  
 _June 2021 – February 2023_
 
-- Led four cross-functional teams building internal tooling for customer service agents.
-- Enabled onboarding of new vendors and improved automation; replaced legacy systems.
-- Laid architectural groundwork for ChatGPT-powered tools; supported rapid AI chatbot launch.
+- Led a group composed of four cross-functional teams building internal tooling for customer service agents.
+- Enabled onboarding of new customer service vendors and improved automation; replaced legacy systems.
+- Laid architectural groundwork for chatbot within the Klarna App; which supported the rapid AI integration (ChatGPT) in 2023.
 - Prioritized flexibility, modularity, and internal ownership to strengthen platform adaptability.
 
 **Senior Engineering Manager**  
@@ -74,19 +53,19 @@ _May 2019 – June 2021_
 
 - Managed managers during a scale-up from ~30 to 80+ engineers.
 - Supported multiple EMs in leadership development; drove release of new product features.
-- Co-created the Engineering Handbook; defined promotion and compensation frameworks.
+- Co-created the Engineering Handbook within Klarna, for all engineers; collaborated on the revamping of the promotion and compensation frameworks.
 
 **Engineering Manager**  
 _Jan 2018 – Apr 2019_
 
-- Founded and led Chat/Chatbot team for the 2018 Klarna app.
+- Founded and led Chat & Chatbot team for the rewrite of the 2018 Klarna app.
 - Delivered real-time communication for customer support; hired and scaled the team.
 - Mentored team members into engineering leadership roles.
 
 **Senior Software Engineer**  
 _Oct 2015 – Jan 2018_
 
-- Full-stack engineer on customer service tools; developed dispute resolution flows.
+- Full-stack engineer on customer service tools; led the development of the dispute resolution flows.
 - Streamlined resolution times for customers and support agents.
 
 ---
@@ -96,8 +75,8 @@ _Oct 2015 – Jan 2018_
 _Sep 2014 – Oct 2015 | Singapore_
 
 - Full-stack engineer on large-scale government platforms.
-- Key contributor to a deployment pipeline enabling near one-click deployments.
-- Advanced agile and DevOps practices for digital modernization in Southeast Asia.
+- Key contributor to a deployment pipeline enabling near one-click deployments in governmental private cloud.
+- Advanced agile and DevOps practices for digital modernization.
 
 **Consultant Developer**  
 _Sep 2012 – Sep 2014 | Brazil & India_
@@ -121,11 +100,24 @@ _Oct 2008 – Jul 2012 | São Paulo, Brazil_
 
 **USP - Universidade de São Paulo**  
 _BSc, Computer Science, 2007 – 2010_  
-- Activities: Athletic Academic Association of Mathematics, Coding Dojo
 
 ---
 
-## ADDITIONAL
+## CORE SKILLS
 
-- Experience co-leading company-wide frameworks for career progression and technical maturity.
-- Deep commitment to fostering inclusive, high-performance engineering cultures.
+- Technology & Engineering Leadership
+- Technical Direction & Strategy
+- Building & Scaling Teams
+- Legacy Modernization
+- Product & Platform Development
+- Cross-functional Collaboration
+- Agile & DevOps Practices
+- Career Development & Coaching
+
+---
+
+## LANGUAGES
+
+- Portuguese (Native)
+- English (Proffessional Fluency)
+- Spanish (Elementary)
