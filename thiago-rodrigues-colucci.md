@@ -3,7 +3,9 @@
 **Director of Engineering at Volvo Cars | ex-Klarna | ex-ThoughtWorks**  
 Stockholm, Sweden  
 [+46 79 301 5159](tel:+46793015159) | [ticolucci@gmail.com](mailto:ticolucci@gmail.com)  
-[linkedin.com/in/thiagocolucci](https://www.linkedin.com/in/thiagocolucci)
+
+> [!NOTE]
+> More details at: [linkedin.com/in/thiagocolucci](https://www.linkedin.com/in/thiagocolucci) 
 
 ---
 
@@ -22,7 +24,8 @@ _March 2025 – Present_
 - Lead ~130 engineers (two management layers) in delivering the end-to-end digital car service experience.
 - Oversee systems including customer booking, technician tools, warranty management, and parts sales.
 - Modernize legacy IBM iSeries systems while building new capabilities with React and Node.js.
-- Collaborate with product and UX on cluster leadership team; accountable for a highly profitable business area.
+- Co-lead a cross-functional leadership team, aligning product, design, and engineering on strategy, metrics, and delivery
+- Accountable for a highly profitable business area.
 
 **Director of Engineering, Mobile Experience**  
 _February 2023 – March 2025_
@@ -34,7 +37,7 @@ _February 2023 – March 2025_
 - Hired/coached engineering leaders and senior engineers.
 
 **Org-wide Impact:**
-- Co-led implementation of a career ladder for 800+ engineers.
+- Defined and implemented scalable career growth frameworks for 800+ engineers and managers, improving clarity and retention.
 - Rolled out frameworks for technical maturity and engineering management.
 
 ---
@@ -45,7 +48,7 @@ _June 2021 – February 2023_
 
 - Led a group composed of four cross-functional teams building internal tooling for customer service agents.
 - Enabled onboarding of new customer service vendors and improved automation; replaced legacy systems.
-- Laid architectural groundwork for chatbot within the Klarna App; which supported the rapid AI integration (ChatGPT) in 2023.
+- Anticipated future product needs by designing modular customer support platforms that enabled rapid adoption of LLM-based AI/chatbot technologies in 2023.
 - Prioritized flexibility, modularity, and internal ownership to strengthen platform adaptability.
 
 **Senior Engineering Manager**  
@@ -105,19 +108,22 @@ _BSc, Computer Science, 2007 – 2010_
 
 ## CORE SKILLS
 
-- Technology & Engineering Leadership
-- Technical Direction & Strategy
-- Building & Scaling Teams
-- Legacy Modernization
+- Engineering Strategy & Org Design
 - Product & Platform Development
-- Cross-functional Collaboration
-- Agile & DevOps Practices
-- Career Development & Coaching
+- Technical Direction & Architecture
+- Cross-functional Leadership
+- Scaling Engineering Organizations
+- Legacy Modernization & Transformation
+- Developer Experience & Productivity
+- Agile, OKRs, and Data-Informed Planning
+- Talent Growth & Leadership Coaching
+- Cloud Infrastructure (GCP, AWS)
+- CI/CD · Observability · DevOps Practices
 
 ---
 
 ## LANGUAGES
 
 - Portuguese (Native)
-- English (Proffessional Fluency)
+- English (Professional Fluency)
 - Spanish (Elementary)
